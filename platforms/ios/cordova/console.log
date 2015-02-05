@@ -1,0 +1,14 @@
+2015-02-05 09:52:37.049 SP Proposal[3206:497423] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/SchompAdvertising/Library/Developer/CoreSimulator/Devices/F54C9EE8-1A13-42AE-A33E-255CAEF52EFC/data/Containers/Data/Application/7319A905-BA85-4F10-B0EF-91A920A91AF9/Library/Cookies/Cookies.binarycookies
+2015-02-05 09:52:37.314 SP Proposal[3206:497423] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 09:52:37.315 SP Proposal[3206:497423] Multi-tasking -> Device: YES, App: YES
+2015-02-05 09:52:37.333 SP Proposal[3206:497423] Unlimited access to network resources
+2015-02-05 09:52:37.342 SP Proposal[3206:497423] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 09:52:38.555 SP Proposal[3206:497423] Resetting plugins due to page load.
+2015-02-05 09:52:39.274 SP Proposal[3206:497423] Finished load of: file:///Users/SchompAdvertising/Library/Developer/CoreSimulator/Devices/F54C9EE8-1A13-42AE-A33E-255CAEF52EFC/data/Containers/Bundle/Application/FA503456-11B0-44BE-8287-05FEC4044190/SP%20Proposal.app/www/index.html
